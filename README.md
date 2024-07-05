@@ -15,7 +15,7 @@ Para comenzar con el proyecto, sigue estos pasos:
    ```bash
    npm install animate.css --save
    
-4. Importa animate.css en tu archivo global.scss para utilizarlo en todo el proyecto..
+4. Importa animate.css en tu archivo global.scss para utilizarlo en todo el proyecto.
 
    ```bash
    @import 'animate.css/animate.min.css';

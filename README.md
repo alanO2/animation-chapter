@@ -20,4 +20,7 @@ Para comenzar con el proyecto, sigue estos pasos:
    ```bash
    @import 'animate.css/animate.min.css';
 
+5. Añadir al class de la línea 3 en el info-card.component.ts lo siguiente:
 
+   ```css
+   animate__animated animate__zoomIn

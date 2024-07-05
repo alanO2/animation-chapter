@@ -18,7 +18,7 @@ Para comenzar con el proyecto, sigue estos pasos:
 4. Importa animate.css en tu archivo global.scss para utilizarlo en todo el proyecto.
 
    ```bash
-   @import 'animate.css/animate.min.css';
+   @import 'animate.css';
 
 5. Añadir al class de la línea 3 en el info-card.component.html lo siguiente:
 
